@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.latest-match {
+  background-color: #ffffff33;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 100%;
+  max-width: 800px;
+  color: white;
+}
+
+.latest-match h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.latest-match p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.competing-team-logo {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+}

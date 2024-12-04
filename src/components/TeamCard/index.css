@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.team-card {
+  background-color: #ffffff33;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  width: 150px;
+  transition: transform 0.3s ease;
+}
+
+.team-card:hover {
+  transform: scale(1.05);
+}
+
+.team-logo {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.team-card p {
+  font-size: 14px;
+  margin: 0;
+  color: white;
+}

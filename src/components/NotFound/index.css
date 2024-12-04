@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.not-found-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-heading {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 36px;
+}
